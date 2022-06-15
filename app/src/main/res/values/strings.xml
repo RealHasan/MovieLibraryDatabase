@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SQLdatabase</string>
+    <string name="MovieName">Movie Name</string>
+    <string name="MovieRelease">Release</string>
+    <string name="InCinemas">In Cinemas</string>
+</resources>
